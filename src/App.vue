@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    this is build travis with github pages.
+    this is build travis with github pages2022.08.12.
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
